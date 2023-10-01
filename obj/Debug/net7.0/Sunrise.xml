@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sunrise</name>
+    </assembly>
+    <members>
+        <member name="M:Sunrise.Controllers.ProductsController.GetProducts(System.Int32,System.String,System.String,System.String,System.Int32,System.Int32)">
+            <summary>
+            Get All Products
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Sunrise.Controllers.ProductsController.GetProduct(System.Int32)">
+            <summary>
+            Gets the product's name, description, price and categoryId
+            </summary>
+            <param name="id"></param>
+            <returns>Product object</returns>
+        </member>
+        <member name="M:Sunrise.Controllers.ProductsController.PostProduct(Sunrise.Models.Product)">
+            <summary>
+            Adds a new Product
+            </summary>
+            <param name="prod"></param>
+            <returns>the new Product and it's route values</returns>
+        </member>
+        <member name="T:Sunrise.Migrations.initialcreating">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrise.Migrations.initialcreating.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrise.Migrations.initialcreating.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrise.Migrations.initialcreating.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Sunrise.Migrations.AddingImagePathColumnToProductsTable">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrise.Migrations.AddingImagePathColumnToProductsTable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrise.Migrations.AddingImagePathColumnToProductsTable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrise.Migrations.AddingImagePathColumnToProductsTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Sunrise.Migrations.AddingImagePathColumnToCategoriesTable">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrise.Migrations.AddingImagePathColumnToCategoriesTable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrise.Migrations.AddingImagePathColumnToCategoriesTable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrise.Migrations.AddingImagePathColumnToCategoriesTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="P:Sunrise.Models.Product.Id">
+            <summary>
+            A unique identity(1,1) identifier
+            </summary>
+        </member>
+    </members>
+</doc>

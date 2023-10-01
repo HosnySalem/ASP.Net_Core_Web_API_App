@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "P4+Ud2uZR2gJpQ7VFNd9SDZZrCVOYxhvpv8nniAxddY=",
+  "Source": "Sunrise",
+  "BasePath": "_content/Sunrise",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Sunrise\\wwwroot",
+      "Source": "Sunrise",
+      "ContentRoot": "E:\\projects\\Sunrise\\wwwroot\\",
+      "BasePath": "_content/Sunrise",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\projects\\Sunrise\\wwwroot\\images\\No_Image_Available.jpg",
+      "SourceId": "Sunrise",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\Sunrise\\wwwroot\\",
+      "BasePath": "_content/Sunrise",
+      "RelativePath": "images/No_Image_Available.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\No_Image_Available.jpg"
+    },
+    {
+      "Identity": "E:\\projects\\Sunrise\\wwwroot\\images\\products\\dd02ad84-b1b8-475d-8fd8-8ef50564d94f.jpg",
+      "SourceId": "Sunrise",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\Sunrise\\wwwroot\\",
+      "BasePath": "_content/Sunrise",
+      "RelativePath": "images/products/dd02ad84-b1b8-475d-8fd8-8ef50564d94f.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\dd02ad84-b1b8-475d-8fd8-8ef50564d94f.jpg"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\projects\\Sunrise\\wwwroot\\images\\No_Image_Available.jpg",
+      "PackagePath": "staticwebassets\\images\\No_Image_Available.jpg"
+    },
+    {
+      "Id": "E:\\projects\\Sunrise\\wwwroot\\images\\products\\dd02ad84-b1b8-475d-8fd8-8ef50564d94f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\dd02ad84-b1b8-475d-8fd8-8ef50564d94f.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Sunrise.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Sunrise.props",
+      "PackagePath": "build\\Sunrise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Sunrise.props",
+      "PackagePath": "buildMultiTargeting\\Sunrise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Sunrise.props",
+      "PackagePath": "buildTransitive\\Sunrise.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
